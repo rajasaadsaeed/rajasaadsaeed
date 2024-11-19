@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajasaadsaeed
 - 👀 I’m interested in ethical hacking and pentesting 
-- 🌱 I’m currently learning  Bs in Cs from International Islamic university Islamabad
+- 🌱 I’m currently learning  BsCs from International Islamic university Islamabad
 - 💞️ I’m looking to collaborate on  the field of cyber security
 - 📫 How to reach me .... currently nothing to share with you except whatsapp but very soon I'll be able to share alot  of sources
 - 
